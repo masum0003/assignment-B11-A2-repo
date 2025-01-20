@@ -1,0 +1,98 @@
+.display-flex{
+    display: flex;
+}
+/* colot combination */
+.dark-3{
+
+}
+
+/* headar */
+
+/* navbar */
+.navbar{
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+.school{
+    margin-left: 141px;
+}
+.school-1{
+    width: 129px;
+    height: 30px;
+    /* font-weight: bold; */
+}
+.logo{
+    height: 62px;
+    width: 62px;
+   
+}
+.nav-item{
+    list-style: none;
+   margin-right: 32px;
+}
+.nav-links{
+    /* margin: 0 auto; */
+    margin-left: 200px;
+    
+}
+#nav-link-1{
+    color: #FEA301;
+}
+#nav-link-2{
+    color: #01ACFD;
+}
+#nav-link-3{
+    color: #05D4DF;
+}
+#nav-link-4{
+    color: #5D58EF;
+}
+.contact{
+    margin-left: 200px;
+    width: 197px;
+    height: 50px;
+    margin-right: 141px;
+    background-color: #FEA301;
+    color: white;
+    border-radius: 5px;
+    border:none;
+    
+
+}
+.nav-link{
+    text-decoration: none;
+}
+/* Banner Design-1 */
+.banner{
+    margin-left: 141px;
+    width: 561px;
+}
+.Empowering-title{
+    font-size: 56px;
+    font-weight: bold;
+}
+.Empowering{
+    color: #FEA301;
+}
+.towards-vision{
+    color: #01ACFD;
+}
+
+.banner-pragraph{
+    color: #111111;
+}
+.Enroll-Now{
+    background-color: black;
+    color: white;
+    width: 197px;
+    height: 50px;
+    border-radius: 12px;
+    /* opacity: 50%; */
+}
+
+/* banner-img-2 */
+
+.banner-img{
+    margin-left: 141px;
+}
