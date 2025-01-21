@@ -96,3 +96,51 @@
 .banner-img{
     margin-left: 141px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer style */
+	
+/* footer section */
+.footers{
+    align-items: center;
+    justify-content: space-around;
+    background-color: #01ACFD;
+    width: 1439px;
+    height: 519px;
+}
+
+.keep{
+    font-size: 26px;
+    font-weight: bold;
+    color: white;
+}
+.pizz{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    
+
+}
+.footers-3{
+    margin-left: -50px;
+}
+.navbar-menu-f{
+   margin-left: -48px;
+   width: 192px;
+   height: 40px;
+}
+
+.navbar-menu-4f{
+    margin-left: -45px;
+   
+}
